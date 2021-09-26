@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Xu
-- 👀 I graudated from New York University in 2019 May as a master degree in electrical engineering and my bachelor degree from Boston University in 2017. I am a creative and innovative engineer, loving challenge and learn new things. Thank you!
+- 👀 I graduated from New York University in 2019, May as a master degree in electrical engineering and my bachelor degree from Boston University in 2017. I am a creative and innovative engineer, loving challenge and learn new things. Thank you!
 - 👀
 I am a fullstack engineer with experience in using java, springboot, javascrip,react, react hook, redux
 , java, css, and involving testing environment to build web applications. 
